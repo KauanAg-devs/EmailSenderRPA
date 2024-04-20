@@ -9,7 +9,7 @@ const account = {
 }
 
 new SendEmail(account).to({ 
-  reciever: 'kauanbarcelos77@gmail.com', 
+  reciever: 'someExample@gmail.com', 
   subject: 'Assunto do Email', 
   text: 'Conteúdo do Email' 
 });
